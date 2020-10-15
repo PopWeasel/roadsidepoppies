@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Roadside Poppies`,
+    description: `A jangly guitar indiepop band based in Cambridge and Copenhagen (also contains traces in Adelaide, Newmarket and possibly other locations)`,
+    author: `@PopWeasel`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
